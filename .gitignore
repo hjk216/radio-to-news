@@ -1,0 +1,12 @@
+/scripts/.env
+/scripts/go.sum
+/scripts/go.mod
+/scripts/main
+
+/scripts/content/audio_chunks/*
+/scripts/content/audio_original/*
+/scripts/content/text_chunks/*
+/scripts/content/text_full/*
+/scripts/content/stories/*
+
+.DS_Store
